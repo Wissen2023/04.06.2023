@@ -1,0 +1,13 @@
+ilk olarak 2 ye ayrılır
+
+1) Geriye değer döndüren 
+2) Geriye değer döndürmeyen
+
+1) Parametre alan
+2) Parametre almayan
+
+
+1) Geriye Değer döndürmeyen ve parametre almayan
+2) Geriye Değer döndürmeyen ve parametre alan
+3) Geriye Değer döndüren ve parametre almayan
+4) Geriye Değer döndüren ve parametre alan
